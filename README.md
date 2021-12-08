@@ -1,2 +1,2 @@
 # Awesome-Fair-Federated-Learning
-Paper collection about fairness-aware federated learning
+Paper collections about fairness-aware federated learning methods and benchmarks.
